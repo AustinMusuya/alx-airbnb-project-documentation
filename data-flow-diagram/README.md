@@ -15,6 +15,6 @@ This directory contains the Level 1 Data Flow Diagram (DFD) for the Airbnb Clone
 
 ---
 
-## 📄 File
+## 📷 Diagram
 
-- `data-flow.png`: PNG export of the DFD created in Draw.io
+> ![Feature Diagram](./data-flow-diagram.png)
